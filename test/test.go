@@ -5,6 +5,7 @@ import (
 	//	"os"
 )
 
+//test featrue git
 func main() {
 	fmt.Println("test")
 
