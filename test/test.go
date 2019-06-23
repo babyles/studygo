@@ -9,5 +9,6 @@ import (
 func main() {
 	fmt.Println("test")
 	fmt.Println("testpr")
+	fmt.Println("news")
 
 }
